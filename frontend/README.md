@@ -6,7 +6,7 @@
 ## 💡 The Problem
 * **330M+** hard-of-hearing people worldwide (**63M+** in India).
 * **Severe Interpreter Shortage:** Only ~300 certified ISL interpreters in India.
-* **Communication Barrier:** Most hearing people do not know sign language, and standard video-call applications lack built-in ISL translation support[cite: 1].
+* **Communication Barrier:** Most hearing people do not know sign language, and standard video-call applications lack built-in ISL translation support.
 
 ---
 
