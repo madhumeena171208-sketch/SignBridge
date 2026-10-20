@@ -30,4 +30,9 @@ SignBridge converts video feed landmarks into readable captions live during a ca
   * *Phase 2 & 3:* Sentence-level translation, text-to-speech, regional languages, and Zoom/Meet integrations.
 
 ---
+### 💻 Running the Local OpenCV Prototype
+To test the live webcam stream and tracking prototype locally:
 
+1. **Navigate to the backend folder:**
+   ```bash
+   cd backend
