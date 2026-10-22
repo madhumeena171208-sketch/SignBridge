@@ -53,6 +53,13 @@ Proposed real-time Indian Sign Language (ISL) to text experience for video calls
 
 ---
 
+## 📢 Social Announcement & Community
+Curious about how we built **SignBridge** as a team (**Tech Titans**)? Check out our team announcement and journey shared on LinkedIn:
+
+👉 *[Read our LinkedIn Post about SignBridge - (https://www.linkedin.com/feed/update/urn:li:activity:7519106618513580034/)**
+
+*Built with passion by Team Tech Titans for accessible communication.*
+
 ## 💻 Running the Local Prototype
 To test the live webcam stream and tracking prototype locally:
 
