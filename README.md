@@ -62,8 +62,9 @@ Curious about how we built **SignBridge** as a team (**Tech Titans**)? Check out
 
 ## 💻 Running the Local Prototype
 To test the live webcam stream and tracking prototype locally:
+<img width="633" height="518" alt="SignBridge_Prototype" src="https://github.com/user-attachments/assets/299da1bb-ce65-4dc6-9d9d-e69310b6b30c" />
 
 1. **Clone the repository:**
-   ```bash
+   ```bash    
    git clone [https://github.com/madhumeena171208-sketch/SignBridge.git](https://github.com/madhumeena171208-sketch/SignBridge.git)
    cd SignBridge
